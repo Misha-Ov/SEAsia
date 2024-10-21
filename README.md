@@ -1,5 +1,4 @@
-# HW14 Travel Agency Website
-
+# SEAsia
 ## Project Overview
 A modern, three-page website for a travel agency dedicated to showcasing one country. The site is built using SCSS, HTML, and Bootstrap with advanced features like parallax effects, tabs, a lightbox slider, and CSS animations. The site is responsive and includes a fixed navigation bar, interactive map, and a contact form.
 
@@ -27,10 +26,10 @@ A modern, three-page website for a travel agency dedicated to showcasing one cou
 
 ## Project Structure
 - **Home Page**: Overview of the destination with popular places, customer reviews, and a call to action.
-- **Country Page**: Detailed information about the country, recommended itineraries, and an interactive map.
+- **Tour Description Page**: Detailed information about the country, recommended itineraries, and an interactive map.
 - **Contact Page**: Contact form, office location, and a FAQ section.
 
 ## How to Run Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/HW14_travel_site.git
+   ```bash
+   git clone https://github.com/Misha-Ov/SEAsia.git
